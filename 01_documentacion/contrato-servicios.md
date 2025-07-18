@@ -1,7 +1,8 @@
 # Contrato de prestación de servicios de diseño
 
 **Entre:**  
-_Vóxel Estudio_ (en adelante "El Estudio"), conformado por _[Nombre de los representantes del estudio]_ , con domicilio en [opcional] y _[Nombre del Cliente]_ (en adelante "El Cliente"), con domicilio en [opcional].
+_Vóxel Estudio_ (en adelante "El Estudio"), conformado por _[Nombre de los representantes del estudio]_,
+con domicilio en [opcional] y _[Nombre del Cliente]_ (en adelante "El Cliente"), con domicilio en [opcional].
 
 **Objeto del contrato:**  
 El Estudio se compromete a realizar tareas de diseño [editorial, gráfico, ilustración, infografía u otros], según el brief acordado previamente por ambas partes.
