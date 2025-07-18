@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_inicio/README.md",
+                "file": "01_documentacion/revision-feedback.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "revision-feedback"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_inicio/README.md",
+                "file": "01_documentacion/nuestros-servicios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "nuestros-servicios"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_documentacion/nuestros-servicios.md",
+                "file": "01_documentacion/contrato-servicios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nuestros-servicios"
+              "title": "contrato-servicios"
             }
           }
         ],
@@ -193,13 +193,23 @@
               "icon": "lucide-list",
               "title": "Esquema de README"
             }
+          },
+          {
+            "id": "851eb4cd83c38695",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,15 +218,17 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ba6c73fa7ce0492a",
   "lastOpenFiles": [
+    "01_documentacion/nuestros-servicios.md",
+    "README.md",
     "00_inicio/README.md",
     "01_documentacion/revision-feedback.md",
     "02_branding/voxel-repositorio.png",
-    "01_documentacion/nuestros-servicios.md",
     "assets",
     "bienvenidos-a-bordo.md",
     "01_documentacion/contrato-servicios.md"
