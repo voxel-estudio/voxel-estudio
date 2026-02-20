@@ -1,78 +1,53 @@
-# Servicios estratégicos para startups
+# Servicios estratégicos para startups y empresas tech | Vóxel Estudio
 
-Vóxel Estudio ofrece soluciones de diseño pensadas para startups que buscan comunicar con precisión, escalar con identidad y diferenciarse con criterio. Nos especializamos en el acompañamiento personalizado y el desarrollo de piezas que combinan estética, estrategia y funcionalidad.
+### Identidad Visual
+- Logotipo y variantes
+- Paleta cromática y sistemas visuales
+- Tipografía y jerarquías
+- Manual de marca y guías de estilo
+- Aplicaciones y adaptaciones multiformato
 
-### 1. Identidad visual y marca general
+### Identidad Verbal y Narrativa
+- Tono, voz y mensajes clave
+- Taglines, claims y narrativa de marca
+- Desarrollo de narrativa comercial
+- Glosario de marca y pautas de redacción
+- Plantillas de comunicación institucional
 
-Diseñamos sistemas de identidad adaptables, que definen la personalidad de la marca y permiten proyectar confianza desde el inicio.
+### Diseño Web y UI/UX
+- Arquitectura de información y flujos de usuario
+- Wireframes, prototipos y diseño visual (UI)
+- Implementación de Design Systems
+- Maquetado semántico y accesible (HTML5, SCSS)
+- Integración en Astro, WordPress y Drupal
+- Optimización SEO y control de calidad
 
-**Incluye:**
+### Visualización de Datos (Data Viz)
+- Diseño de tableros de analítica (PowerBi)
+- Infografías técnicas y mapas (Sistemas GIS)
+- Diagramación de procesos complejos
+- Reportes de impacto y auditoría visual
 
-- Logotipo principal y variantes
-- Manual básico de uso y estilo
-- Paleta cromática, tipografía y sistema visual
-- Aplicaciones base (tarjetas, presentaciones, redes sociales)
+### Presentaciones y Storytelling
+- Deck institucional y Pitch comercial
+- One-pager y Casos de estudio
+- Guion para presentaciones y oral pitching
+- Recursos visuales y soporte para presentaciones
 
-💡 _Ideal para startups en etapa semilla o pre-lanzamiento que necesitan claridad, coherencia y presentación profesional._
+### Diseño Editorial
+- Estructura y jerarquía de contenidos
+- Maquetación de publicaciones semestrales y técnicas
+- Coordinación de equipos de traducción y maquetación
+- Libros digitales e impresos
 
+### Ilustración y Fotografía
+- Ilustración editorial y de producto
+- Desarrollo de estilos ilustrativos personalizados
+- Fotografía corporativa y retoque digital
+- Cobertura visual de eventos y presentaciones
 
----
-
-### 2. Presentación institucional y pitch
-
-Creamos narrativas visuales que ayudan a founders a presentar sus proyectos con impacto ante inversores, aliados y usuarios.
-
-**Incluye:**
-
-- Pitch deck profesional
-- Presentación de servicios o propuesta comercial
-- Mapas narrativos y storytelling por etapas
-- Optimización visual para PDF, web y oral pitching
-
-💡 _Diseñado para diferenciarse en convocatorias, programas, inversores y rondas._
-
-
----
-
-### 3. UX/UI para productos digitales
-
-Diseñamos interfaces funcionales y atractivas que priorizan al usuario sin perder profundidad visual ni técnica.
-
-**Incluye:**
-
-- Wireframes, mockups y diseño visual
-- Estructura de navegación y jerarquía de contenidos
-- Documentación visual para desarrollo
-- Acompañamiento estratégico para MVPs o plataformas
-
-💡 _Perfecto para startups tecnológicas, educativas o institucionales con productos en desarrollo._
-
-
----
-
-### 4. Documentación estratégica y legal visual
-
-Transformamos documentos operativos en piezas legibles, entendibles y coherentes con la marca.
-
-**Incluye:**
-
-- Contratos y presupuestos personalizados
-- Manuales internos, instructivos o plantillas institucionales
-- Documentación protegida y estandarizada para uso recurrente
-
-💡 _Una herramienta vital para founders que necesitan orden, claridad y presentación ante clientes o inversores._
-
-
----
-
-### 5. 🎯 Acompañamiento personalizado
-
-Más allá del diseño puntual, ofrecemos acompañamiento estratégico para founders que valoran la comunicación como diferencial.
-
-**Incluye:**
-
-- Asesorías periódicas en tono de voz, estilo visual y presentación
-- Revisión evolutiva de materiales, escalabilidad y consistencia
-- Sprints de diseño aplicados a necesidades específicas
-
-💡 _Un servicio pensado para quienes prefieren trabajar con criterio, empatía y rigor técnico._
+### Consultoría y Auditoría
+- Auditoría de comunicación y diseño
+- Estrategia de contenidos y calendario editorial
+- Asesoría en escalabilidad de marca para startups
+- Sprints de diseño para MVPs y lanzamientos
